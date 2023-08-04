@@ -1,1 +1,3 @@
 # English-to-Hindi-Translation-with-Hugging-Face-and-MBart
+
+This project focuses on machine translation from English to Hindi using the Hugging Face library and the Multilingual BART (MBart) model. MBart is a state-of-the-art transformer-based language model that excels in translating multiple languages, including Hindi. Leveraging the power of Hugging Face's Python NLP library and the capabilities of MBart, this project aims to provide accurate and fluent translations for various English text inputs into Hindi. The implementation allows for seamless translation and opens up opportunities for further exploration and adaptation to other language pairs as well.
